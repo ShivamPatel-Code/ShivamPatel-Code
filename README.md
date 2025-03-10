@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shivam Patel! 
 
-🚀 Software Engineer | Cloud, Web & Data Enthusiast | Passionate Problem Solver
+🚀 Software Engineer | Web, Data, & Cloud Enthusiast | Passionate Problem Solver
 
 ## 🔹 About Me
 I'm a **Software Engineer - Data and Cloud** at Synchrony Financial, where I work on designing scalable data pipelines, optimizing cloud infrastructure, and automating workflows to enhance efficiency. I have a strong foundation in **Python, Java, and Cloud Technologies (Azure, AWS)** with hands-on experience in **ETL, data migration, CI/CD automation, and full-stack development**.
