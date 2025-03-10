@@ -7,6 +7,8 @@ I'm a **Software Engineer - Data and Cloud** at Synchrony Financial, where I wor
 
 With a **Master's and Bachelor's in Computer Science from Clemson University**, I have interned at **General Electric, Intapp, and CarbonCents**, where I contributed to backend optimizations, cloud automation, and UI/UX enhancements.
 
+In addition to my current projects, I’ve contributed to various other projects on my previous GitHub account, [ShivamPatel-24](https://github.com/ShivamPatel-24)
+
 ---
 
 ## 🛠 Tech Stack & Skills
@@ -49,12 +51,3 @@ With a **Master's and Bachelor's in Computer Science from Clemson University**, 
 
 ## 📈 GitHub Stats
 ![ShivamPatel-Code's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShivamPatel-Code&theme=vue-dark&hide_border=true)
-
----
-
-## 📫 Let's Connect!
-🔗 [LinkedIn](https://www.linkedin.com/in/shivam-patel123/)  
-📧 shivampatel24081@gmail.com  
-💻 [GitHub](https://github.com/ShivamPatel-Code)  
-
-🚀 **Let's collaborate and build something amazing!**
