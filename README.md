@@ -48,8 +48,6 @@ With a **Master's and Bachelor's in Computer Science from Clemson University**, 
 ---
 
 ## 📈 GitHub Stats
-![ShivamPatel-Code's Stats](https://github-readme-stats.vercel.app/api?username=ShivamPatel-Code&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ![ShivamPatel-Code's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShivamPatel-Code&theme=vue-dark&hide_border=true)
 
 ---
