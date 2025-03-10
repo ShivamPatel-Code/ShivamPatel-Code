@@ -23,7 +23,7 @@ In addition to my current projects, I’ve contributed to various other projects
 
 ## 🌟 Featured Projects
 
-### 🖼️ **Image Store Application** | [GitHub Repo](#)
+### 🖼️ **Image Store Application** | [GitHub Repo](https://github.com/ShivamPatel-Code/Image-Store-Application)
 > *Spring Boot, Spring Security, JWT, Spring Data JPA, H2, Imgur API, Apache Kafka, Maven*
 
 - Developed a **RESTful API** for secure user registration, authentication, and image management.
