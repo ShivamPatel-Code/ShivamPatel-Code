@@ -48,6 +48,3 @@ In addition to my current projects, I’ve contributed to various other projects
 - **CarbonCents:** Revamped **UI/UX**, improving engagement **by 20%**.
 
 ---
-
-## 📈 GitHub Stats
-![ShivamPatel-Code's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShivamPatel-Code&theme=vue-dark&hide_border=true)
